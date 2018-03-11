@@ -1,0 +1,19 @@
+{
+  "name": "@moilandtoil/sealab-postgres-triggers",
+  "version": "0.0.1",
+  "description": "Postgres triggers used by some sealab-* repos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moilandtoil/sealab-postgres-triggers.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moilandtoil/sealab-postgres-triggers/issues"
+  },
+  "homepage": "https://github.com/moilandtoil/sealab-postgres-triggers#readme",
+  "devDependencies": {
+    "knex": "^0.14.4",
+    "pg": "^7.4.1"
+  }
+}
