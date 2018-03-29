@@ -1,6 +1,6 @@
 {
   "name": "@moilandtoil/sealab-postgres-triggers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Postgres triggers used by some sealab-* repos",
   "repository": {
     "type": "git",
